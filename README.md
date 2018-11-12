@@ -26,7 +26,7 @@ In each script, we present different models relying on famous neural networks ar
 
 - Script_01 ==> Basic Multi Layer Perceptron
 - Script_02 ==> Basic CNN
-- Script_03 ==> LeNet-5
+- Script_03 ==> **LeNet-5**
 - Script_04 ==> AlexNet
 - Script_05 ==> VGG16
 
