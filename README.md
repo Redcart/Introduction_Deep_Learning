@@ -27,8 +27,8 @@ In each script, we present different models relying on famous neural networks ar
 - Script_01 ==> Basic Multi Layer Perceptron
 - Script_02 ==> Basic CNN
 - Script_03 ==> **LeNet-5**
-- Script_04 ==> AlexNet
-- Script_05 ==> VGG16
+- Script_04 ==> **AlexNet**
+- Script_05 ==> **VGG16**
 
 These architectures are adapted to the dimensions of the input images (28x28x1). 
 Indeed, LeNet-5 was trained on 32x32x1, AlexNet was trained on 227x227x3, VGG-16 was trained on 224x224x3 images.
